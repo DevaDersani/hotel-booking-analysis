@@ -7,14 +7,25 @@ Hotels face revenue loss due to high booking cancellations. This project analyze
 Hotel booking dataset (2015–2017) containing booking status, customer type, and seasonal details.
 
 ## Tools Used
+
 - Power BI
-- Excel
-- SQL
+- Power Query (Data Cleaning & Transformation)
+- DAX (Calculated Measures)
+- Excel / CSV Dataset
 
 ## Steps Performed
 - Cleaned missing and incorrect values
 - Created calculated measures using DAX
 - Built interactive dashboards
+
+  ## DAX Measures Used
+
+- Total Bookings
+- Total Cancellations
+- Cancellation Rate (%)
+- Average Daily Rate (ADR)
+- Average Length of Stay
+
 
 ## Key Insights
 - Cancellations are higher during peak seasons
