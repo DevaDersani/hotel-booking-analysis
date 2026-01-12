@@ -25,17 +25,5 @@ Helps hotel management reduce cancellations and improve booking strategies.
 
 ## Dashboard
 Power BI Public Link: (paste your link here)
-## Dashboard Screenshots
 
-### 1. Executive Overview
-![Executive Overview](screenshots/Executive Overview.jpeg)
-
-### 2. Cancellation Analysis
-![Cancellation Analysis](screenshots/Cancellation Analysis.jpeg)
-
-### 3. Revenue and Stay Analysis
-![Revenue and Stay Analysis](screenshots/Revenue and stay Analysis.jpeg)
-
-### 4. Customer Segmentation and Loyalty
-![Customer Segmentation](screenshots/Customer segmentation and loyalty.jpeg)
 
