@@ -24,7 +24,7 @@ Hotel booking dataset (2015–2017) containing booking status, customer type, an
 Helps hotel management reduce cancellations and improve booking strategies.
 
 ## Dashboard
-Power BI Public Link: (paste your link here)
+Power BI File Available on Request
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
